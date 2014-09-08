@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: http://jekyll.gtat.me
+=======
+<<<<<<< HEAD
+title: Sixty Seconds
+tagline: A Blog.
+description: Describe your website.
+canonical: http://joshuabailey.me
+>>>>>>> FETCH_HEAD
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Joshua Bailey
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
   email:          cole@coletownsend.com
@@ -61,3 +69,11 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+<<<<<<< HEAD
+=======
+
+
+# Build settings
+markdown: kramdown
+>>>>>>> FETCH_HEAD
+>>>>>>> FETCH_HEAD
