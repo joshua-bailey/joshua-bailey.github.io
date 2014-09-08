@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-title: "Sixty Seconds"
-tagline: A Blog.
-description: Describe your website.
+title:            Sixty Seconds
+tagline:          A Blog.
+description:      A student trying to work it all out
 canonical: http://joshuabailey.me
->>>>>>> FETCH_HEAD
 
 # Owner/author information
 owner:
@@ -31,8 +29,8 @@ links:
   - title: Github
     url: https://github.com/ColeTownsend/Balzac-for-Jekyll
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: My Medium
+    url: http://medium.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -63,11 +61,3 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
-<<<<<<< HEAD
-=======
-
-
-# Build settings
-markdown: kramdown
->>>>>>> FETCH_HEAD
->>>>>>> FETCH_HEAD
